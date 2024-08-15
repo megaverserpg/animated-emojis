@@ -1,4 +1,4 @@
-$(function() {
+$(document).ready(function() {
   var config = {
     button_title: 'Emojis',
     auto_close: false,
